@@ -1,0 +1,34 @@
+MODULE 4 - LAB 2: STUDENT DATA MANAGER
+
+===== STUDENT DATA MANAGER =====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Exit
+Enter your choice: 1
+Enter roll number: 101
+Enter student name: Arun Kumar
+Enter department: AIML
+Student record saved successfully.
+
+===== STUDENT DATA MANAGER =====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Exit
+Enter your choice: 2
+
+===== STUDENT RECORDS =====
+Roll No     Name                  Department
+------------------------------------------------
+101         Arun Kumar            AIML
+
+===== STUDENT DATA MANAGER =====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Exit
+Enter your choice: 4
+Exiting Student Data Manager.
+
+Note: students.txt is created automatically when the first record is added.
