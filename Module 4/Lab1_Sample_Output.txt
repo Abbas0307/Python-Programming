@@ -1,0 +1,12 @@
+MODULE 4 - LAB 1: LOG FILE READER
+
+===== APPLICATION LOG READER =====
+Log file: sample_app.log
+Total log entries: 5
+Filter by level (INFO/WARNING/ERROR or ALL): ERROR
+
+----- LOG ENTRIES -----
+2026-11-12 09:03:40 ERROR Database connection failed
+2026-11-12 09:07:25 ERROR Unable to load user profile
+
+Matching entries: 2
