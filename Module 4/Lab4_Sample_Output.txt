@@ -1,0 +1,27 @@
+MODULE 4 - LAB 4: CSV-BASED PAYROLL MANAGEMENT SYSTEM
+
+Enter number of employees: 2
+
+Enter details for employee 1:
+Enter Employee ID: E101
+Enter Name: Arun
+Enter Basic Salary: 30000
+Enter Allowance: 5000
+Enter Deduction: 2000
+Net Salary: Rs. 33000.00
+
+Enter details for employee 2:
+Enter Employee ID: E102
+Enter Name: Priya
+Enter Basic Salary: 25000
+Enter Allowance: 4000
+Enter Deduction: 1500
+Net Salary: Rs. 27500.00
+
+Employee payroll records saved in payroll.csv.
+
+===== EMPLOYEE PAYROLL RECORDS =====
+E101 | Arun | Basic Salary: Rs. 30000.00 | Allowance: Rs. 5000.00 | Deduction: Rs. 2000.00 | Net Salary: Rs. 33000.00
+E102 | Priya | Basic Salary: Rs. 25000.00 | Allowance: Rs. 4000.00 | Deduction: Rs. 1500.00 | Net Salary: Rs. 27500.00
+
+Note: payroll.csv is created automatically and stores the employee payroll records.
