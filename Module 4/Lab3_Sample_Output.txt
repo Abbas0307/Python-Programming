@@ -1,0 +1,35 @@
+MODULE 4 - LAB 3: CSV-BASED PAYROLL MANAGEMENT SYSTEM
+
+===== CSV PAYROLL MANAGEMENT =====
+1. Add Employee Payroll
+2. View Payroll Report
+3. Exit
+Enter your choice: 1
+Enter employee ID: E101
+Enter employee name: Priya
+Enter basic salary: 30000
+Enter HRA percentage: 20
+Enter DA percentage: 10
+Enter total deduction: 2500
+
+Payroll record saved successfully.
+Gross Salary: Rs. 39,000.00
+Net Salary:   Rs. 36,500.00
+
+===== CSV PAYROLL MANAGEMENT =====
+1. Add Employee Payroll
+2. View Payroll Report
+3. Exit
+Enter your choice: 2
+
+===== PAYROLL REPORT =====
+E101 | Priya | Gross: Rs. 39000.00 | Net: Rs. 36500.00
+
+===== CSV PAYROLL MANAGEMENT =====
+1. Add Employee Payroll
+2. View Payroll Report
+3. Exit
+Enter your choice: 3
+Exiting Payroll Management System.
+
+Note: payroll.csv is created automatically and stores the payroll records.
