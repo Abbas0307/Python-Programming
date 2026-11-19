@@ -1,0 +1,13 @@
+MODULE 5 - LAB 3: DICE SIMULATOR USING RANDOM MODULE
+
+===== DICE SIMULATOR =====
+Press Enter to roll the dice or type Q to quit:
+You rolled: 4
+Press Enter to roll the dice or type Q to quit:
+You rolled: 2
+Press Enter to roll the dice or type Q to quit:
+You rolled: 6
+Press Enter to roll the dice or type Q to quit: Q
+Thanks for playing!
+
+Note: Dice results are random, so your output may be different each time.
