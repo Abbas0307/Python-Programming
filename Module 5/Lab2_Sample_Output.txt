@@ -1,0 +1,47 @@
+MODULE 5 - LAB 2: LIBRARY MANAGEMENT SYSTEM
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. View Books
+3. Search Book
+4. Exit
+Enter your choice: 1
+Enter book ID: B101
+Enter book title: Python Basics
+Enter author name: John Smith
+Book added successfully.
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. View Books
+3. Search Book
+4. Exit
+Enter your choice: 2
+
+===== LIBRARY BOOKS =====
+Book ID     Title                    Author
+-------------------------------------------------------
+B101        Python Basics            John Smith
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. View Books
+3. Search Book
+4. Exit
+Enter your choice: 3
+Enter book ID to search: B101
+
+Book found:
+Book ID: B101
+Title: Python Basics
+Author: John Smith
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. View Books
+3. Search Book
+4. Exit
+Enter your choice: 4
+Exiting Library Management System.
+
+Note: library_books.txt is created automatically when the first book is added.
