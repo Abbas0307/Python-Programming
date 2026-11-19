@@ -1,0 +1,24 @@
+MODULE 5 - MINI PROJECT: RETAIL SALES DASHBOARD USING CSV AND MATPLOTLIB
+
+===== RETAIL SALES DATA =====
+      Date  Product  Sales
+2026-11-01     Bags   2500
+2026-11-01    Shoes   4000
+2026-11-02     Bags   3000
+2026-11-02    Shoes   3500
+2026-11-03     Bags   2000
+2026-11-03    Shoes   4500
+
+Total Sales: Rs. 19,500.00
+
+Sales by Product:
+Shoes: Rs. 12,000.00
+Bags: Rs. 7,500.00
+
+Two charts are displayed:
+1. Line chart showing daily retail sales.
+2. Bar chart showing total sales by product.
+
+Note: Install the required libraries using:
+pip install pandas matplotlib
+Keep sales.csv in the same folder as the Python program.
